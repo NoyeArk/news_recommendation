@@ -1,1 +1,3 @@
-.idea/
+tmp_results/recall/youtube_u2i_dict.pkl
+tmp_results/recall/itemcf_i2i_sim.pkl
+tmp_results/recall/final_recall_items_dict.pkl

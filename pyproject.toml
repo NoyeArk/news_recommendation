@@ -1,0 +1,22 @@
+[project]
+name = "news-recommendation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.12"
+dependencies = [
+    "deepctr==0.9.3",
+    "deepmatch>=0.2.0",
+    "faiss-cpu>=1.8.0.post1",
+    "funrec>=0.0.5",
+    "gensim>=4.4.0",
+    "ipykernel>=6.0.0",
+    "lightgbm>=4.6.0",
+    "numpy>=1.23.5",
+    "pandas>=2.0.3",
+    "pip>=25.3",
+    "scikit-learn>=1.6.1",
+    "tensorflow>=2.15.1",
+    "tqdm>=4.67.1",
+    "typing-extensions>=4.15.0",
+]
